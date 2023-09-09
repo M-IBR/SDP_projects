@@ -3,4 +3,4 @@ SDP source codes
 <br>
 For Hololens
 <br>
-Author - Mohammed Ibrahim
+Author - Mohammed Ibrahim with other SDP groups
